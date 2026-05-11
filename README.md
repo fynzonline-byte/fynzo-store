@@ -1,4 +1,4 @@
-# fynzo-store
+
 <!DOCTYPE html>
 <html lang="hi">
 <head>
